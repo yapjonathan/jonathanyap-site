@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+    {{ content }}
+
+    {% include footer.html %}
+
+  <link async href="{{ "/scripts/main.min.js" | prepend: site.baseurl }}">
+  <script>
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register("{{ "/sw.js" | prepend: site.baseurl }}").then(function() {
+      console.log("Service Worker Registered");
+    });
+  }
+  </script>
+  </body>
+
+</html>
