@@ -73,9 +73,9 @@ gulp.task('css', () => {
 gulp.task('scss', () => {
     return gulp.src('scss/main.scss')
         .pipe($.sass({
-            includePaths: [require('node-bourbon').includePaths, 'css'],
+            includePaths: require('node-neat').includePaths.concat('css'),
             onError: browserSync.notify
-        }))
+        }).on('error', sass.logError))
         .pipe(gulp.dest('css'));
 });
 
