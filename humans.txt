@@ -3,10 +3,10 @@
 Thanks for looked at my humans.txt!
 
 /* TEAM */
-Developer: yapjonathan.
-Site: email, link to a contact form, etc.
-Twitter: your Twitter username.
-Location: City, Country.
+Developer: Jonathan Yap.
+Site: jonathanyap.com
+Twitter: @yapjonathan
+Location: Singapore
 
 
 /* THANKS */
@@ -14,7 +14,7 @@ Name: name or url
 
 
 /* SITE */
-Last update: YYYY/MM/DD
+Last update: 2016/11/20
 Standards: HTML5, CSS3,..
-Components: Modernizr, jQuery, etc.
-Software: Software used for the development
+Components: Pug, Sass, Jekyll, Node, npm
+Software: Sublime Text, Sketch, Terminal
