@@ -7,6 +7,8 @@ import browserSync from 'browser-sync';
 import swPrecache from 'sw-precache';
 const $ = gulpLoadPlugins();
 
+var sass = require('gulp-sass');
+
 // Minify the HTML.
 gulp.task('minify-html', () => {
   return gulp.src('_site/**/*.html')
@@ -71,7 +73,7 @@ gulp.task('css', () => {
 gulp.task('scss', () => {
     return gulp.src('scss/main.scss')
         .pipe($.sass({
-            includePaths: ['css'],
+            includePaths: [require('node-bourbon').includePaths, 'css'],
             onError: browserSync.notify
         }))
         .pipe(gulp.dest('css'));
