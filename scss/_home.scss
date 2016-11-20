@@ -1,0 +1,18 @@
+.home{
+  &__header {
+    @include position(relative)
+  }
+
+  &__title {
+    @include position(absolute);
+    text-align: center;
+  }
+
+  &__name {
+    font-family: $title-font-family;
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 18pt;
+    font-size: 60px
+  }
+}
