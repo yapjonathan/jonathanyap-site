@@ -5,17 +5,19 @@ title: About
 permalink: /about/
 ---
 
-I always find it to be a tough challenge to describe oneself. If you ask me, I'll probably tell you about my experience as a designer who goes from start to end in a product lifecycle and a little beyond, even if things didn't always [work out](https://www.linkedin.com/company/emotivu).
+I always find it to be a tough challenge to describe oneself, so let me do a little self exploration to paint a little picture. It'll probably go something like this:
 
-Someone who loves to dig his hands into the warm sands of culture to discover a gem of a story told from people from time-to-time; like sharing one in a 16-hour train journey halfway across Europe thanks to [Mother Nature](https://en.wikipedia.org/wiki/2010_eruptions_of_Eyjafjallaj%C3%B6kull).
+An experienced designer who goes from start to end in a product lifecycle and a little beyond, even if things didn't always [work out](https://www.linkedin.com/company/emotivu).
 
-A person who went through quite a lot to perfect his craft and workflow [with tools](https://sympli.io/blog/2016/10/04/less-time-specingatvisa/), but in time when needed, just stick to the barebones and gets the job done.
+Someone who loves to dig his hands into the warm sands of culture to discover a gem of a story told by others; i.e sharing one in a 16-hour train journey halfway across Europe thanks to [Mother Nature](https://en.wikipedia.org/wiki/2010_eruptions_of_Eyjafjallaj%C3%B6kull).
 
-One who turn stories into prototype to tell a story, and sometimes gets back into the entanglement of code to try out new ideas.
+A person who went through quite a lot to perfect his craft and workflow [with tools](https://sympli.io/blog/2016/10/04/less-time-specingatvisa/); but when needed, will stick to the barebones to get the job done.
 
-A hobbyist who spends probably too much on kickstarter, but always out seeking interesting stories for [Digital Ketchup](https://flipboard.com/section/digital-ketchup!-bfbwqm).
+One who turns insights into prototype to tell a story, and sometimes gets back into the entanglement of code to try out new ideas.
 
-So, maybe to sum it up, I'm Jonathan Yap, an explorer of sorts. 😄
+A tech enthusiast who spends probably too much on kickstarter and always out seeking interesting stories for [Digital Ketchup](https://flipboard.com/section/digital-ketchup!-bfbwqm).
+
+So, maybe to sum it up, this is Jonathan Yap, an explorer of sorts. 😄
 
 Come say hi [at] jonathanyap [dot] com.
 

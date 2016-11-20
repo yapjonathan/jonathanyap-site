@@ -3,7 +3,14 @@
       <div class="footer__desc">
         <h4 class="footer__title">{{ site.title }}</h4>
         <h5 class="footer__sub-title">Product Design. Tech Explorer</h5>
-        <p class="footer__body">{{ site.description }}</p>
+        <p class="footer__body">
+          {{ site.description }}
+          {% for page in site.pages %}
+            {% if page.title %}
+            Read more in <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>.
+            {% endif %}
+          {% endfor %}
+        </p>
       </div>
 
         <ul class="social-list">
