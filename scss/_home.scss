@@ -9,6 +9,10 @@
     width: 100%;
     text-align: center;
     padding: $spacing-unit 0;
+
+    @include media($desktop) {
+      padding-top: $spacing-unit*2;
+    }
   }
 
   &__list {
@@ -29,8 +33,18 @@
     font-family: $title-font-family;
     text-transform: uppercase;
     letter-spacing: 18pt;
-    font-size: $base-font-size * 3;
+    font-size: $base-font-size * 1.8;
     margin-bottom: 0;
+
+    @include transition(all 100ms ease-in-out);
+
+    @include media($tablet) {
+      font-size: $base-font-size * 2.5;
+    }
+
+    @include media($desktop) {
+      font-size: $base-font-size * 3.5;
+    }
 
     &--jp,
     &--cn {
