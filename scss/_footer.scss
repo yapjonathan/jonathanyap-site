@@ -1,25 +1,62 @@
 .footer {
-  padding: $spacing-unit/2;
+  padding: $spacing-unit $spacing-unit/2;
 
   @include outer-container;
 }
 
+/*
+Footer Description
+ */
 .footer__desc {
-  @include span-columns(6);
+
+  @include media($tablet) {
+    @include span-columns(3);
+    @include shift(1);
+  }
+
+  @include media($desktop) {
+    @include span-columns(3);
+    @include shift(3);
+  }
 }
+
+.footer__title {
+ margin-bottom: 0;
+}
+
+.footer__sub-title {
+  color: tint($text-color, 60%);
+}
+
+.footer__body {
+  font-size: 12px;
+}
+
+/*
+Footer Social List
+ */
 
 .social-list {
   list-style-type: none;
   margin: 0;
 
-  @include span-columns(6);
+  @include media($tablet) {
+    @include span-columns(3);
+  }
+
+  @include media($desktop) {
+    @include span-columns(3);
+  }
 }
 
 .social-list__list {
+  margin-bottom: $spacing-unit/10;
 }
 
 %social-list__link {
-  color: #39c;
+  font-size: 12px;
+
+  @include transition(all 100ms ease-in-out);
 }
 
 .social-list__link {
@@ -29,13 +66,36 @@
   &--twitter {
     @extend %social-list__link;
   }
+
+  &--github:hover .social-list__icon,
+    &--github:active .social-list__icon {
+    background-color: $color-github;
+  }
+
+  &--dribbble:hover .social-list__icon,
+  &--dribbble:active .social-list__icon {
+    background-color: $color-dribbble;
+  }
+
+  &--linkedin:hover .social-list__icon,
+  &--linkedin:active .social-list__icon {
+    background-color: $color-linkedin;
+  }
+
+  &--twitter:hover .social-list__icon,
+  &--twitter:active .social-list__icon {
+    background-color: $color-twitter;
+  }
 }
 
 .social-list__icon {
-  background: $brand-color;
+  background: darken($home-bg-color, 50%);
   display: inline-block;
   vertical-align: middle;
   border-radius: 50%;
+  margin-right: $spacing-unit/6;
+
+  @include transition(all 100ms ease-in-out);
 }
 
 %social-list__svg {
@@ -44,6 +104,7 @@
   display: block;
   padding: $spacing-unit/10;
   max-width: 24px;
+  max-height: 24px;
 }
 
 .social-list__svg {
@@ -53,4 +114,7 @@
   &--twitter {
     @extend %social-list__svg;
   }
+}
+
+.social-list__username {
 }

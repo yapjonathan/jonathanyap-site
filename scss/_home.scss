@@ -59,5 +59,9 @@
   &__img {
     max-height: 40em;
     margin: auto;
+
+    @include media($mobile) {
+      padding-top: 20vh;
+    }
   }
 }

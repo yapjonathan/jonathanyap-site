@@ -23,6 +23,15 @@ $on-laptop:        800px;
 $title-font-family: 'Lato', Helvetica, Arial, sans-serif;
 $home-bg-color: #E4EAEA;
 
+$color-linkedin: #0077B5;
+$color-github: #4078C0;
+$color-dribbble: #EA4C89;
+$color-twitter: #1a8bf0;
+
+$desktop: min-width 921px 12;
+$tablet: min-width 481px 8;
+$mobile: max-width 480px 4;
+
 // Using media queries with like this:
 // @include media-query($palm) {
 //     .wrapper {
