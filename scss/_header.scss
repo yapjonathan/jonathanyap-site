@@ -1,0 +1,24 @@
+.header {
+  text-align: center;
+  padding: $spacing-unit;
+
+  @include outer-container;
+}
+
+.header__url,
+.header__url:visited {
+  font-family: $title-font-family;
+  text-transform: uppercase;
+  letter-spacing: 12pt;
+  font-size: $base-font-size * 1.2;
+  margin-bottom: 0;
+  color: $text-color;
+
+  @include transition(all 100ms ease-in-out);
+
+  &:visited,
+  &:hover {
+    text-decoration: none;
+    color: $text-color;
+  }
+}
