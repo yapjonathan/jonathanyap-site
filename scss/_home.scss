@@ -8,6 +8,21 @@
 
     width: 100%;
     text-align: center;
+    padding: $spacing-unit 0;
+  }
+
+  &__list {
+    list-style-type: none;
+    margin: 0 0 $spacing-unit /3;
+  }
+
+  &__list-item {
+    display: inline-block;
+    vertical-align: middle;
+  }
+
+  &__separator {
+    font-size: 12px;
   }
 
   &__name {
@@ -15,22 +30,23 @@
     text-transform: uppercase;
     letter-spacing: 18pt;
     font-size: $base-font-size * 3;
+    margin-bottom: 0;
 
     &--jp,
     &--cn {
       @include size(100% auto);
-      @include margin(auto auto $spacing-unit / 2);
+      @include margin(auto);
 
-      display: block;
       padding: $spacing-unit /3;
+      display: block;
     }
 
     &--jp {
-      max-width: 30em;
+      max-width: 12em;
     }
 
     &--cn {
-      max-width: 12em;
+      max-width: 6em;
     }
 
   }
