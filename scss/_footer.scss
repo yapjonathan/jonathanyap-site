@@ -1,0 +1,56 @@
+.footer {
+  padding: $spacing-unit/2;
+
+  @include outer-container;
+}
+
+.footer__desc {
+  @include span-columns(6);
+}
+
+.social-list {
+  list-style-type: none;
+  margin: 0;
+
+  @include span-columns(6);
+}
+
+.social-list__list {
+}
+
+%social-list__link {
+  color: #39c;
+}
+
+.social-list__link {
+  &--github,
+  &--dribbble,
+  &--linkedin,
+  &--twitter {
+    @extend %social-list__link;
+  }
+}
+
+.social-list__icon {
+  background: $brand-color;
+  display: inline-block;
+  vertical-align: middle;
+  border-radius: 50%;
+}
+
+%social-list__svg {
+  width: 100%;
+  height: auto;
+  display: block;
+  padding: $spacing-unit/10;
+  max-width: 24px;
+}
+
+.social-list__svg {
+  &--github,
+  &--dribbble,
+  &--linkedin,
+  &--twitter {
+    @extend %social-list__svg;
+  }
+}
