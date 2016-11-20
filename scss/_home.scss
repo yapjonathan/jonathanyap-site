@@ -55,4 +55,9 @@
     margin-bottom: 0;
     background-color: $home-bg-color;
   }
+
+  &__img {
+    max-height: 40em;
+    margin: auto;
+  }
 }
