@@ -1,18 +1,42 @@
 .home{
   &__header {
-    @include position(relative)
+    @include position(relative);
   }
 
   &__title {
     @include position(absolute);
+
+    width: 100%;
     text-align: center;
   }
 
   &__name {
     font-family: $title-font-family;
-    font-weight: 300;
     text-transform: uppercase;
     letter-spacing: 18pt;
-    font-size: 60px
+    font-size: $base-font-size * 3;
+
+    &--jp,
+    &--cn {
+      @include size(100% auto);
+      @include margin(auto auto $spacing-unit / 2);
+
+      display: block;
+      padding: $spacing-unit /3;
+    }
+
+    &--jp {
+      max-width: 30em;
+    }
+
+    &--cn {
+      max-width: 12em;
+    }
+
+  }
+
+  &__figure {
+    margin-bottom: 0;
+    background-color: $home-bg-color;
   }
 }
