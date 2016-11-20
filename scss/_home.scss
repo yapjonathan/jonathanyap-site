@@ -15,56 +15,6 @@
     }
   }
 
-  &__list {
-    list-style-type: none;
-    margin: 0 0 $spacing-unit /3;
-  }
-
-  &__list-item {
-    display: inline-block;
-    vertical-align: middle;
-  }
-
-  &__separator {
-    font-size: 12px;
-  }
-
-  &__name {
-    font-family: $title-font-family;
-    text-transform: uppercase;
-    letter-spacing: 18pt;
-    font-size: $base-font-size * 1.8;
-    margin-bottom: 0;
-
-    @include transition(all 100ms ease-in-out);
-
-    @include media($tablet) {
-      font-size: $base-font-size * 2.5;
-    }
-
-    @include media($desktop) {
-      font-size: $base-font-size * 3.5;
-    }
-
-    &--jp,
-    &--cn {
-      @include size(100% auto);
-      @include margin(auto);
-
-      padding: $spacing-unit /3;
-      display: block;
-    }
-
-    &--jp {
-      max-width: 12em;
-    }
-
-    &--cn {
-      max-width: 6em;
-    }
-
-  }
-
   &__figure {
     margin-bottom: 0;
     background-color: $home-bg-color;
