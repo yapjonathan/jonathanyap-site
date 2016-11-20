@@ -6,6 +6,7 @@
 Post
  */
 .post {
+    padding: $spacing-unit 0;
 
     @include media($mobile) {
         padding: $spacing-unit/2;
@@ -28,6 +29,18 @@ Post
         width: 100%;
         margin: auto;
     }
+}
+
+.post-header {
+    margin-bottom: $spacing-unit;
+    text-align: center;
+}
+
+.post-title {
+    font-family: $title-font-family;
+    letter-spacing: 2px;
+    line-height: 1;
+    font-size: $base-font-size * 1.8;
 }
 
 /**
@@ -219,19 +232,6 @@ Post
 /**
  * Posts
  */
-.post-header {
-    margin-bottom: $spacing-unit;
-}
-
-.post-title {
-    font-size: 42px;
-    letter-spacing: -1px;
-    line-height: 1;
-
-    @include media-query($on-laptop) {
-        font-size: 36px;
-    }
-}
 
 .post-content {
     margin-bottom: $spacing-unit;

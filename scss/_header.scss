@@ -12,12 +12,6 @@
   letter-spacing: 12pt;
   font-size: $base-font-size * 1.2;
   margin-bottom: 0;
-  color: $text-color;
 
   @include transition(all 100ms ease-in-out);
-
-  &:visited,
-  &:hover {
-    color: $text-color;
-  }
 }

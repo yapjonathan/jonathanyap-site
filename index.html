@@ -19,14 +19,17 @@ block: home
 
 </header>
 
-<!-- <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+<section class="{{page.block}}__posts">
 
-        <h2>
+  <ul class="{{page.block}}__post-lists">
+    {% for post in site.posts %}
+      <li class="post-lists__list">
+        <h2 class="post-title">
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
         </h2>
+        <p class="post__desc_preview">{{ post.content | strip_html | truncatewords:24}} <a href="{{ post.url | prepend: site.baseurl }}">👉</a></p>
       </li>
     {% endfor %}
-  </ul> -->
+  </ul>
+
+</section>

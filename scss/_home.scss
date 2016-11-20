@@ -33,6 +33,9 @@
     }
   }
 
+/*
+Home image
+ */
   &__figure {
     margin-bottom: 0;
     background-color: $home-bg-color;
@@ -46,4 +49,45 @@
       padding-top: 20vh;
     }
   }
+
+}
+
+/*
+Post section
+ */
+.home__posts {
+  @include outer-container;
+  padding: $spacing-unit $spacing-unit/2;
+}
+
+.home__post-lists {
+  list-style: none;
+  margin: 0;
+
+  @include media($tablet) {
+    @include span-columns(6);
+    @include shift(1);
+  }
+
+  @include media($desktop) {
+    @include span-columns(6);
+    @include shift(3);
+  }
+}
+
+.post-lists__list {
+  margin-bottom: $spacing-unit;
+
+  .post-title {
+    margin-bottom: $spacing-unit/2;
+  }
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.post__desc_preview {
+  font-size: 12px;
+  margin-bottom: 0;
 }
