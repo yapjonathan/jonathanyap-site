@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tronsquare"
-date:   2016-09-08 11:56:39 +0300
+date:   2016-09-08
 categories: work
 class: tronsquare
 ---
