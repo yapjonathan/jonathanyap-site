@@ -5,9 +5,8 @@ import gulpLoadPlugins from 'gulp-load-plugins';
 import runSequence from 'run-sequence';
 import browserSync from 'browser-sync';
 import swPrecache from 'sw-precache';
+import sass from 'gulp-sass';
 const $ = gulpLoadPlugins();
-
-var sass = require('gulp-sass');
 
 // Minify the HTML.
 gulp.task('minify-html', () => {
