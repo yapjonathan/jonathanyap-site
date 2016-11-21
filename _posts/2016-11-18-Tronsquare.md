@@ -9,6 +9,8 @@ class: tronsquare
 ![Transquare Map]({{ site.baseurl }}/images/work/tronsquare-map.jpg)
 ![Transquare Logo]({{ site.baseurl }}/images/work/tronsquare-logo.png)
 
+## Light cycle game using location check-ins
+
 This is what happen when you mash up the light cycle game from Tron and Foursquare. The idea of Tronsquare first came at the Unlock London Hackathon and the following day it won in the category of Most Innovative Application.
 
 The team then came together to mash out awesomeness and put everything in full swing. Consisting of myself, an iOS developer, an Android developer, a web developer and an end point server side developer, each of us worked on our strength to create a game worthy of the Grid. In an AGILE environment, I lead the UX/UI development in making the game itself worked before polishing the UI.
