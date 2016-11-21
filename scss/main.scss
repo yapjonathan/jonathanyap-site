@@ -3,30 +3,32 @@
 
 // Our variables
 $base-font-family: 'Noto Sans', Helvetica, Arial, sans-serif;
+$title-font-family: 'Lato', Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
+/* Colors */
 $text-color:       #111;
 $background-color: #fdfdfd;
 $brand-color:      #00BFB3;
 
-$grey-color:       #828282;
+$grey-color:       #757575;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
-$on-palm:          600px;
-$on-laptop:        800px;
-
-$title-font-family: 'Lato', Helvetica, Arial, sans-serif;
 $home-bg-color: #E4EAEA;
 
 $color-linkedin: #0077B5;
 $color-github: #4078C0;
 $color-dribbble: #EA4C89;
 $color-twitter: #1a8bf0;
+
+$on-palm:          600px;
+$on-laptop:        800px;
+
 
 $desktop: min-width 921px 12;
 $tablet: min-width 481px 8;
@@ -53,6 +55,7 @@ $mobile: max-width 480px 4;
 @import "_base";
 @import "_layout";
 @import "_home";
+@import "_post";
 @import "_svg_name";
 @import "_header";
 @import "_footer";

@@ -93,11 +93,13 @@ a {
  */
 blockquote {
     color: $grey-color;
-    border-left: 4px solid $grey-color-light;
+    border-left: 4px solid $brand-color;
     padding-left: $spacing-unit / 2;
+    margin-left: $spacing-unit;
+    margin-right: $spacing-unit;
     font-size: 18px;
-    letter-spacing: -1px;
-    font-style: italic;
+    font-family: $title-font-family;
+    letter-spacing: 0.4px;
 
     > :last-child {
         margin-bottom: 0;
