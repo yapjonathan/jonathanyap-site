@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Panasonic Ex3 IFE"
+title:  "Panasonic In-Flight Entertainment System"
 date:   2016-11-18
 categories: work
 class: panasonic
@@ -15,7 +15,7 @@ The project with Panasonic is a very large scale, long term collaboration which 
 
 ![Panasonic Ex3 IFE designs]({{ site.baseurl }}/images/work/panasonic-ex3-ife-design.png)
 
-This started out with the work for building the UI in the in flight entertainment (IFE) system. With the latest version allowing touch interaction and wireless internet in the skies, we could pull in a lot of familiar services for those long hours up in the air.
+This started out with the work for building the UI in the Ex3 in-flight entertainment (IFE) system. With the latest version allowing touch interaction and wireless internet in the skies, we could pull in a lot of familiar services for those long hours up in the air.
 
 ![Panasonic Ex3 IFE wireframes]({{ site.baseurl }}/images/work/panasonic-ex3-ife-wireframes.png)
 
