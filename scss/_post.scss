@@ -87,10 +87,13 @@ Post Content
 
     h2 {
         font-size: 32px;
-        margin-bottom: $spacing-unit;
+        margin-top: $spacing-unit/2;
+        margin-bottom: $spacing-unit/2;
         letter-spacing: 2px;
 
-        @include media($on-laptop) {
+        @include media($tablet) {
+            margin-top: $spacing-unit;
+            margin-bottom: $spacing-unit;
             font-size: 28px;
         }
     }
