@@ -1,0 +1,37 @@
+/*
+Tronsquare Post
+ */
+
+.post--tronsquare {
+}
+
+.tronsquare_figure--intro {
+  position: relative;
+}
+
+.tronsquare_figure--logo {
+  display: block;
+
+  img {
+    @include position(absolute, 0 0 0 0);
+    max-width: 30%;
+  }
+}
+
+.tronsquare_figure--logotype,
+.tronsquare_figure--app,
+.tronsquare_figure--lights,
+.tronsquare_figure--wireframe {
+  img {
+    background-color: $grey-color-dark;
+    padding: $spacing-unit/2;
+
+    @include media($tablet) {
+      padding: $spacing-unit $spacing-unit*1.5;
+    }
+
+    @include media($desktop) {
+      padding: $spacing-unit $spacing-unit*3;
+    }
+  }
+}

@@ -1,0 +1,32 @@
+/*
+Panasonic Post
+ */
+
+$panasonic-color: #008fe3;
+
+.post--panasonic {
+}
+
+.panasonic_figure--intro {
+    background-color: $panasonic-color;
+    padding: $spacing-unit;
+
+    img {
+      max-width: 50vw;
+
+      @include media($tablet) {
+        max-width: 30vw;
+      }
+    }
+}
+
+[class^="panasonic_figure"] {
+  img {
+    background-color: $panasonic-color;
+    padding: $spacing-unit/2;
+
+    @include media($tablet) {
+      padding: $spacing-unit;
+    }
+  }
+}

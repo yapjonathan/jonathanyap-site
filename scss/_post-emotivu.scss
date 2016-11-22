@@ -1,0 +1,31 @@
+/*
+Emotivu Post
+ */
+
+$emotivu-color: #004667;
+
+.post--emotivu {
+}
+
+.emotivu_figure--hack {
+  img {
+    max-width: 50%;
+  }
+}
+
+.emotivu_figure--wireframe,
+.emotivu_figure--menu,
+.emotivu_figure--app {
+  img {
+    background-color: $emotivu-color;
+    padding: $spacing-unit/2;
+
+    @include media($tablet) {
+      padding: $spacing-unit $spacing-unit*1.5;
+    }
+
+    @include media($desktop) {
+      padding: $spacing-unit $spacing-unit*3;
+    }
+  }
+}

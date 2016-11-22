@@ -1,0 +1,21 @@
+/*
+worldpay Post
+ */
+
+.post--worldpay {
+}
+
+.worldpay_figure--wireframes img {
+    background-color: $grey-color-dark;
+    padding: $spacing-unit/2;
+
+    img {
+      @include media($tablet) {
+        padding: $spacing-unit $spacing-unit*1.5;
+      }
+
+      @include media($desktop) {
+        padding: $spacing-unit $spacing-unit*3;
+      }
+    }
+}
