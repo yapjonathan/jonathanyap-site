@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Jonathan Yap
 email: hi@jonathanyap.com
-description: End-to-end product design, from discovering people insights, hacking up prototype, to building front-end with code.
+description: Discovering insights, designing products, hacking prototype, building UI with code.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jonathanyap.com" # the base hostname & protocol for your site
 twitter_username: yapjonathan
