@@ -16,7 +16,7 @@
 title: Jonathan Yap
 email: hi@jonathanyap.com
 description: Discovering insights, designing products, hacking prototype, building UI with code.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl:  # the subpath of your site, e.g. /blog
 url: "http://jonathanyap.com" # the base hostname & protocol for your site
 twitter_username: yapjonathan
 github_username:  yapjonathan
