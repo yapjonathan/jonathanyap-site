@@ -141,6 +141,18 @@ Post Content
             font-size: 18px;
         }
     }
+
+    figure {
+        @include media($tablet) {
+            margin: $spacing-unit 0;
+        }
+    }
+
+    figcaption {
+        font-style: italic;
+        color: $grey-color;
+        text-align: center;
+    }
 }
 
 /*
