@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Panasonic In-Flight Entertainment System"
-date:   2016-11-18
+date:   2012-12-18
 categories: work
 class: panasonic
 ---
