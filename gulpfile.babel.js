@@ -5,6 +5,7 @@ import gulpLoadPlugins from 'gulp-load-plugins';
 import runSequence from 'run-sequence';
 import browserSync from 'browser-sync';
 import swPrecache from 'sw-precache';
+import sass from 'gulp-sass';
 const $ = gulpLoadPlugins();
 
 // Minify the HTML.
@@ -71,9 +72,9 @@ gulp.task('css', () => {
 gulp.task('scss', () => {
     return gulp.src('scss/main.scss')
         .pipe($.sass({
-            includePaths: ['css'],
+            includePaths: require('node-neat').includePaths.concat('css'),
             onError: browserSync.notify
-        }))
+        }).on('error', sass.logError))
         .pipe(gulp.dest('css'));
 });
 

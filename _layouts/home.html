@@ -4,15 +4,10 @@
   {% include head.html %}
 
   <body>
-    {% include header.html %}
-
-    <section class="site-content">
-      {{ content }}
-    </section>
+    {{ content }}
 
     {% include footer.html %}
     {% include bunny.html %}
-
   <link async href="{{ "/scripts/main.min.js" | prepend: site.baseurl }}">
   <script>
   if ('serviceWorker' in navigator) {

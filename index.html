@@ -1,25 +1,36 @@
 ---
-layout: default
+layout: home
+block: home
 ---
 
-<div class="home">
+<header class="{{page.block}}__header">
+    <div class="{{page.block}}__title">
+      <h1 class="{{page.block}}__name">{{ site.title }}</h1>
 
-  <h1 class="page-heading">Posts</h1>
+      {% include svg-name.html %}
 
-  <ul class="post-list">
+       <p class="{{page.block}}__desc">Product Designer ✏️ Tech Explorer 🚀</p>
+
+    </div>
+
+    <figure class="{{page.block}}__figure">
+      <img class="{{page.block}}__img" src="{{ site.baseurl }}/images/profile1.jpg" alt="Jonathan Yap Profile">
+    </figure>
+
+</header>
+
+<section class="{{page.block}}__posts">
+  <h2 class="{{page.block}}__posts-title">Projects</h2>
+
+  <ul class="{{page.block}}__post-lists">
     {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
+      <li class="post-lists__list">
+        <h2 class="post-title">
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
         </h2>
+        <p class="post__desc_preview">{{ post.content | strip_html | truncatewords:24}} <a href="{{ post.url | prepend: site.baseurl }}">👉</a></p>
       </li>
     {% endfor %}
   </ul>
 
-  {% include example.html %}
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
+</section>

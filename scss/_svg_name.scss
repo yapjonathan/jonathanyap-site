@@ -1,0 +1,41 @@
+
+/*
+SVG Name
+ */
+.svg_name {
+
+  &__list {
+    list-style-type: none;
+    margin: 0 0 $spacing-unit /3;
+  }
+
+  &__list-item {
+    display: inline-block;
+    vertical-align: middle;
+  }
+
+  &__separator {
+    font-size: 12px;
+  }
+
+  &__name {
+
+    &--jp,
+    &--cn {
+      @include size(100% auto);
+      @include margin(auto);
+
+      padding: $spacing-unit /3;
+      display: block;
+    }
+
+    &--jp {
+      max-width: 12em;
+    }
+
+    &--cn {
+      max-width: 6em;
+    }
+
+  }
+}

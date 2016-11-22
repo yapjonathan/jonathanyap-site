@@ -1,0 +1,143 @@
+/*
+Post List
+ */
+.post-list {
+    margin-left: 0;
+    list-style: none;
+
+    > li {
+        margin-bottom: $spacing-unit;
+    }
+}
+
+.post-meta {
+    font-size: $small-font-size;
+    color: $grey-color;
+}
+
+.post-link {
+    display: block;
+    font-size: 24px;
+}
+
+
+/*
+Post
+ */
+.post {
+    padding: $spacing-unit 0;
+
+    @include media($mobile) {
+        padding: $spacing-unit/2;
+    }
+
+    @include media($tablet) {
+        @include span-columns(6);
+        @include shift(1);
+    }
+
+    @include media($desktop) {
+        @include span-columns(8);
+        @include shift(2);
+    }
+}
+
+.profile-suff {
+    &__img {
+        max-width: 44em;
+        width: 100%;
+        margin: auto;
+    }
+}
+
+.post-header {
+    margin-bottom: $spacing-unit;
+    text-align: center;
+}
+
+.post-title {
+    font-family: $title-font-family;
+    letter-spacing: 2px;
+    line-height: 1;
+    font-size: $base-font-size * 1.8;
+
+    @include media($desktop) {
+        font-size: $base-font-size * 2.2;
+    }
+}
+
+/*
+Post Content
+ */
+
+.post-content {
+
+    // &:after {
+    //     content: '🚀';
+    //     display: block;
+    //     margin-top: $spacing-unit;
+    //     text-align: center;
+    //     font-size: 24px;
+    // }
+
+    img {
+        margin: auto;
+        display: block;
+    }
+
+    h2 {
+        font-size: 32px;
+        margin-top: $spacing-unit/2;
+        margin-bottom: $spacing-unit/2;
+        letter-spacing: 2px;
+
+        @include media($tablet) {
+            margin-top: $spacing-unit;
+            margin-bottom: $spacing-unit;
+            font-size: 28px;
+        }
+    }
+
+    h3 {
+        font-size: 26px;
+        margin-bottom: $spacing-unit;
+        letter-spacing: 3px;
+
+        @include media($on-laptop) {
+            font-size: 22px;
+            letter-spacing: 5px;
+        }
+    }
+
+    h4 {
+        font-size: 20px;
+        letter-spacing: 3px;
+        margin-bottom: $spacing-unit;
+
+        @include media($on-laptop) {
+            font-size: 18px;
+        }
+    }
+}
+
+/*
+Post footer nav
+ */
+
+.post-nav {
+    margin-top: $spacing-unit;
+}
+
+.post-nav__lists {
+    margin: 0;
+    list-style-type: none;
+    text-align: center;
+}
+
+.post-nav__list {
+    margin-bottom: $spacing-unit/2;
+
+    &:last-child {
+        margin-bottom: 0;
+    }
+}

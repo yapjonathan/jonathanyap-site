@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div class="post">
+<div class="post{% if page.class %} post--{{ page.class}}{% endif %}{% if page.categories %} post--{{ page.categories}}{% endif %}">
 
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
@@ -11,5 +11,28 @@ layout: default
   <article class="post-content">
     {{ content }}
   </article>
+
+  <nav class="post-nav">
+    <ul class="post-nav__lists">
+
+      {% if page.previous.url %}
+        <li class="post-nav__list">
+          <a class="post-nav__prev" href="{{page.previous.url}}">👈 {{page.previous.title}}</a>
+        </li>
+      {% endif %}
+
+
+    {% if page.next.url %}
+      <li class="post-nav__list">
+        <a class="post-nav__next" href="{{page.next.url}}">{{page.next.title}} 👉</a>
+      </li>
+    {% endif %}
+
+      <li class="post-nav__list">
+        <a href="/" class="link--back-home">Back to home 🚀</a>
+      </li>
+
+    </ul>
+  </nav>
 
 </div>
