@@ -1,0 +1,23 @@
+/*
+o2-academy Post
+ */
+
+$o2-academy-color: #000033;
+
+.post--o2-academy {
+}
+
+[class^="o2-academy_figure"] {
+  img {
+    background-color: $o2-academy-color;
+    padding: $spacing-unit/2;
+
+    @include media($tablet) {
+      padding: $spacing-unit $spacing-unit*1.5;
+    }
+
+    @include media($desktop) {
+      padding: $spacing-unit $spacing-unit*3;
+    }
+  }
+}
