@@ -3,10 +3,10 @@
   <channel>
     <title>Jonathan Yap</title>
     <description>Discovering insights, designing products, hacking prototype, building UI with code.</description>
-    <link>http://jonathanyap.com/jonathanyap-site/</link>
-    <atom:link href="http://jonathanyap.com/jonathanyap-site/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 22 Nov 2016 23:33:08 +0800</pubDate>
-    <lastBuildDate>Tue, 22 Nov 2016 23:33:08 +0800</lastBuildDate>
+    <link>http://jonathanyap.com/</link>
+    <atom:link href="http://jonathanyap.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 23 Nov 2016 00:13:27 +0800</pubDate>
+    <lastBuildDate>Wed, 23 Nov 2016 00:13:27 +0800</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -18,7 +18,7 @@
 &lt;p&gt;Emotivu was the result of Startup Weekend in 2012, an ambitious project that bring emotions, tweets, and movies together. Using sentiment analysis and a complex algorithm, Emotivu recommends you movies to watch based on your tweets. This was the initial proof of concept that slowly evolve over time.&lt;/p&gt;
 
 &lt;figure class=&quot;emotivu_figure--hack&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/jonathanyap-site/images/work/emotivu-app-hack.png&quot; alt=&quot;Emotivu responsive app in hackathon&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/work/emotivu-app-hack.png&quot; alt=&quot;Emotivu responsive app in hackathon&quot; /&gt;&lt;/p&gt;
   &lt;figcaption&gt;1st version of Emotivu from Startup Weekend&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -27,21 +27,21 @@
 &lt;p&gt;The user flow was vital in helping build the algorithm, as it requires a lot of user feedback to help it learn and improve recommendation and accuracy. We went through countless number of iteration to archive the right balance of feedback and usability.&lt;/p&gt;
 
 &lt;figure class=&quot;emotivu_figure--wireframe&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/jonathanyap-site/images/work/emotivu-wireframe.png&quot; alt=&quot;Emotivu wireframe&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/work/emotivu-wireframe.png&quot; alt=&quot;Emotivu wireframe&quot; /&gt;&lt;/p&gt;
   &lt;figcaption&gt;Iteration on wireframe&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;The approach was designing in low-fi wireframes and getting the flow right, then jump into designing in browser. It was an challenging learning curve to adopt design in code fully within the workflow, but once setlled, it felt awesome to see it come to life.&lt;/p&gt;
 
 &lt;figure class=&quot;emotivu_figure--menu&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/jonathanyap-site/images/work/emotivu-menu.png&quot; alt=&quot;Emotivu menu&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/work/emotivu-menu.png&quot; alt=&quot;Emotivu menu&quot; /&gt;&lt;/p&gt;
   &lt;figcaption&gt;CSS animation for the win!&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;CSS animation was big. Big in terms of how well it performed over all browsers and devices. My target was to avoid using javascript to drive all the animation as it drops a huge amount of frame rates on mobile devices. CSS3 performed brilliantly across most devices, with devices that did not support it would simply gracefully degrade.&lt;/p&gt;
 
 &lt;figure class=&quot;emotivu_figure--app&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/jonathanyap-site/images/work/emotivu-app.png&quot; alt=&quot;Emotivu responsive app&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/work/emotivu-app.png&quot; alt=&quot;Emotivu responsive app&quot; /&gt;&lt;/p&gt;
   &lt;figcaption&gt;Web app responsive across devices&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -50,8 +50,8 @@
 &lt;p&gt;Our app is far from finish as we pressed on to work on getting Emotivu closer to how we pictured it. We manage to secure &lt;a href=&quot;http://4pt5.com/emotivu-wins-techpitch-4-5/&quot;&gt;initial interest to funding&lt;/a&gt; but in the end, it was down to personal reasons that Emotivu did not take off. This has always been close to heart and highly regarded as the most intense period of my career growth.&lt;/p&gt;
 </description>
         <pubDate>Wed, 14 May 2014 00:00:00 +0800</pubDate>
-        <link>http://jonathanyap.com/jonathanyap-site/work/2014/05/14/emotivu/</link>
-        <guid isPermaLink="true">http://jonathanyap.com/jonathanyap-site/work/2014/05/14/emotivu/</guid>
+        <link>http://jonathanyap.com/work/2014/05/14/emotivu/</link>
+        <guid isPermaLink="true">http://jonathanyap.com/work/2014/05/14/emotivu/</guid>
         
         
         <category>work</category>
@@ -61,9 +61,9 @@
       <item>
         <title>Tronsquare</title>
         <description>&lt;figure class=&quot;tronsquare_figure--intro&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/jonathanyap-site/images/work/tronsquare-map.jpg&quot; alt=&quot;Transquare Map&quot; /&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/work/tronsquare-map.jpg&quot; alt=&quot;Transquare Map&quot; /&gt;
 &lt;span class=&quot;tronsquare_figure--logo&quot;&gt;
-&lt;img src=&quot;/jonathanyap-site/images/work/tronsquare-logo.png&quot; alt=&quot;Transquare Logo&quot; /&gt;
+&lt;img src=&quot;/images/work/tronsquare-logo.png&quot; alt=&quot;Transquare Logo&quot; /&gt;
 &lt;/span&gt;&lt;/p&gt;
 &lt;/figure&gt;
 
@@ -76,14 +76,14 @@
 &lt;p&gt;Our on going efforts in getting the prototype working has took us closer and closer to our vision.&lt;/p&gt;
 
 &lt;figure class=&quot;tronsquare_figure--logotype&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/jonathanyap-site/images/work/tronsquare-logotype.png&quot; alt=&quot;Transquare Logotype&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/work/tronsquare-logotype.png&quot; alt=&quot;Transquare Logotype&quot; /&gt;&lt;/p&gt;
   &lt;figcaption&gt;Crafting the logotype&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;Aside from the logo itself, I created a logotype that will accompany the app icon, in application where the logo would not work as well on its on. It took some time and micro tweaking to get it to the way it should be without looking out of place.&lt;/p&gt;
 
 &lt;figure class=&quot;tronsquare_figure--wireframe&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/jonathanyap-site/images/work/tronsquare-wireframe.png&quot; alt=&quot;Transquare Wireframe&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/work/tronsquare-wireframe.png&quot; alt=&quot;Transquare Wireframe&quot; /&gt;&lt;/p&gt;
   &lt;figcaption&gt;Walking through the user journey&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -92,22 +92,22 @@
 &lt;p&gt;We have kept the app simple and basic as our first prototype as our focus was to overcome a lot of development and technical challenges. This proved to be a challenge for myself in terms of the visual aspect.&lt;/p&gt;
 
 &lt;figure class=&quot;tronsquare_figure--lights&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/jonathanyap-site/images/work/tronsquare-lights.png&quot; alt=&quot;Transquare Lights&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/work/tronsquare-lights.png&quot; alt=&quot;Transquare Lights&quot; /&gt;&lt;/p&gt;
   &lt;figcaption&gt;Developing the lighting UI&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;Getting the right colour and glow wasn’t easy. It took quite a lot of effort to get the consistency of light across the UI right. It is essential that the colour also add an element of interactivity and feedback to gamers. This was an opportunity to turn something basic to something that shared the similar aesthetic as the vision in the Grid.&lt;/p&gt;
 
 &lt;figure class=&quot;tronsquare_figure--app&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/jonathanyap-site/images/work/tronsquare-app.png&quot; alt=&quot;Transquare App&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/work/tronsquare-app.png&quot; alt=&quot;Transquare App&quot; /&gt;&lt;/p&gt;
   &lt;figcaption&gt;Tronsquare app&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;Finally the final outlook of the app, in all its pixel glory. It was given very high on aesthetic and intriguing concept as a feedback to most people we tested with. As this progress, I’ve learned a lot from working closely with engineers both on-site and remotely. The project did not progress beyond release due to not being able to solve some of the challenges faced in the back end.&lt;/p&gt;
 </description>
         <pubDate>Fri, 21 Feb 2014 00:00:00 +0800</pubDate>
-        <link>http://jonathanyap.com/jonathanyap-site/work/2014/02/21/tronsquare/</link>
-        <guid isPermaLink="true">http://jonathanyap.com/jonathanyap-site/work/2014/02/21/tronsquare/</guid>
+        <link>http://jonathanyap.com/work/2014/02/21/tronsquare/</link>
+        <guid isPermaLink="true">http://jonathanyap.com/work/2014/02/21/tronsquare/</guid>
         
         
         <category>work</category>
@@ -116,35 +116,35 @@
     
       <item>
         <title>O2 Academy App</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/jonathanyap-site/images/work/o2-academy-intro.jpg&quot; alt=&quot;O2 Academy Concept shot&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/images/work/o2-academy-intro.jpg&quot; alt=&quot;O2 Academy Concept shot&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;bringing-you-closer-to-the-music&quot;&gt;Bringing you closer to the music&lt;/h2&gt;
 
 &lt;p&gt;This project started out as a simple refresh in design and added functionality for both iOS and Android. It grew into an opportunity to add value in the O2 music experience. This also helped us rethink the presentation method and a more engaging way to tell a story.&lt;/p&gt;
 
 &lt;figure class=&quot;o2-academy_figure--old-app&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/jonathanyap-site/images/work/o2-academy-old-app.png&quot; alt=&quot;O2 Academy app older version&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/work/o2-academy-old-app.png&quot; alt=&quot;O2 Academy app older version&quot; /&gt;&lt;/p&gt;
   &lt;figcaption&gt;Initial UI refresh&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;The start of this project was to propose an improvement to the previous version and give it a much needed facelift to be inline with the O2 Academy brand.&lt;/p&gt;
 
 &lt;figure&gt;
-  &lt;p&gt;&lt;img src=&quot;/jonathanyap-site/images/work/o2-academy-new-concept.jpg&quot; alt=&quot;O2 Academy app new concept&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/work/o2-academy-new-concept.jpg&quot; alt=&quot;O2 Academy app new concept&quot; /&gt;&lt;/p&gt;
   &lt;figcaption&gt;New direction, crafted story telling&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;Its about the journey from the excitement of getting the tickets to anticipation of attending the big day to the eagerness of finding the next gig. Every event is different and every artist is unique, so an adaptive approach to the app is introduced. The Band Pack. We took this opportunity to present the idea in a different light, in the experience of the app.&lt;/p&gt;
 
 &lt;figure&gt;
-  &lt;p&gt;&lt;img src=&quot;/jonathanyap-site/images/work/o2-academy-new-concept2.jpg&quot; alt=&quot;O2 Academy app new concept 2&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/work/o2-academy-new-concept2.jpg&quot; alt=&quot;O2 Academy app new concept 2&quot; /&gt;&lt;/p&gt;
   &lt;figcaption&gt;User journey in play&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;We constructed a set that mimics the music cycle and introduced elements that enhance the experience. Through the set, we were able to communicate an engaging story and paint a much clearer picture in an exciting way.&lt;/p&gt;
 
 &lt;figure&gt;
-  &lt;p&gt;&lt;img src=&quot;/jonathanyap-site/images/work/o2-academy-persona.gif&quot; alt=&quot;O2 Academy persona character&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/work/o2-academy-persona.gif&quot; alt=&quot;O2 Academy persona character&quot; /&gt;&lt;/p&gt;
   &lt;figcaption&gt;Persona and his moments&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -153,22 +153,22 @@
 &lt;h3 id=&quot;introducing-bandpack&quot;&gt;Introducing Bandpack&lt;/h3&gt;
 
 &lt;figure class=&quot;o2-academy_figure--new-app&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/jonathanyap-site/images/work/o2-academy-new-app.png&quot; alt=&quot;O2 Academy app new app&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/work/o2-academy-new-app.png&quot; alt=&quot;O2 Academy app new app&quot; /&gt;&lt;/p&gt;
   &lt;figcaption&gt;Brandpack in action&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;With the focus now on the event itself, we introduce an element called the Band Pack that allow artists to showcase themselves. This allow the app to pull in customised content that tailors to the personality of the artist. We also provide a complete view by pull in relevant information about the performing venue.&lt;/p&gt;
 
 &lt;figure class=&quot;o2-academy_figure--new-app2&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/jonathanyap-site/images/work/o2-academy-new-app2.png&quot; alt=&quot;O2 Academy app new app 2&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/work/o2-academy-new-app2.png&quot; alt=&quot;O2 Academy app new app 2&quot; /&gt;&lt;/p&gt;
   &lt;figcaption&gt;UI that is all about building up to the actual experience&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;This makes it easy to pull in information and invite friends to join up for a night of excitement. In conclusion, the idea is about bringing you closer to the music through mobile and we have successfully created the right conversation with the client while discovering a unique way to showcase ideas and creating discussion.&lt;/p&gt;
 </description>
         <pubDate>Tue, 02 Jul 2013 00:00:00 +0800</pubDate>
-        <link>http://jonathanyap.com/jonathanyap-site/work/2013/07/02/o2-academy/</link>
-        <guid isPermaLink="true">http://jonathanyap.com/jonathanyap-site/work/2013/07/02/o2-academy/</guid>
+        <link>http://jonathanyap.com/work/2013/07/02/o2-academy/</link>
+        <guid isPermaLink="true">http://jonathanyap.com/work/2013/07/02/o2-academy/</guid>
         
         
         <category>work</category>
@@ -178,7 +178,7 @@
       <item>
         <title>Panasonic In-Flight Entertainment System</title>
         <description>&lt;figure class=&quot;panasonic_figure--intro&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/jonathanyap-site/images/work/panasonic-ex3-intro.png&quot; alt=&quot;Panasonic Ex3 Intro&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/work/panasonic-ex3-intro.png&quot; alt=&quot;Panasonic Ex3 Intro&quot; /&gt;&lt;/p&gt;
 &lt;/figure&gt;
 
 &lt;h2 id=&quot;building-the-foundation-for-entertainment-in-the-skies&quot;&gt;Building the foundation for entertainment in the skies&lt;/h2&gt;
@@ -186,43 +186,43 @@
 &lt;p&gt;The project with Panasonic is a very large scale, long term collaboration which involves a lot of people. I was involved in building the experience from ground up and helped shape the standards for a complex B2B CMS&lt;/p&gt;
 
 &lt;figure class=&quot;panasonic_figure--ife&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/jonathanyap-site/images/work/panasonic-ex3-ife-design.png&quot; alt=&quot;Panasonic Ex3 IFE designs&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/work/panasonic-ex3-ife-design.png&quot; alt=&quot;Panasonic Ex3 IFE designs&quot; /&gt;&lt;/p&gt;
   &lt;figcaption&gt;Android powered entertainment&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;This started out with the work for building the UI in the Ex3 in-flight entertainment (IFE) system. With the latest version allowing touch interaction and wireless internet in the skies, we could pull in a lot of familiar services for those long hours up in the air.&lt;/p&gt;
 
 &lt;figure class=&quot;panasonic_figure--wireframes&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/jonathanyap-site/images/work/panasonic-ex3-ife-wireframes.png&quot; alt=&quot;Panasonic Ex3 IFE wireframes&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/work/panasonic-ex3-ife-wireframes.png&quot; alt=&quot;Panasonic Ex3 IFE wireframes&quot; /&gt;&lt;/p&gt;
   &lt;figcaption&gt;Working with details wireframe for a comprehensive experience&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;The project then grew into providing a second screen experience in extension to the back seat IFE. We drew up multiple mini wireframes sets to help create second screen UX for users with tablet devices.&lt;/p&gt;
 
 &lt;figure class=&quot;panasonic_figure--sb_logo&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/jonathanyap-site/images/work/panasonic-ex3-sb-logo.png&quot; alt=&quot;Panasonic Ex3 IFE site builder logo&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/work/panasonic-ex3-sb-logo.png&quot; alt=&quot;Panasonic Ex3 IFE site builder logo&quot; /&gt;&lt;/p&gt;
   &lt;figcaption&gt;Site Builder with version tracking&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;Part of the project is creating an automate process for airline without much additional coding, by building a content management system for site portals. It all starts with a simple logo, with an added bonus of allowing version control.&lt;/p&gt;
 
 &lt;figure class=&quot;panasonic_figure--sb&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/jonathanyap-site/images/work/panasonic-ex3-sb.png&quot; alt=&quot;Panasonic Ex3 IFE site builder&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/work/panasonic-ex3-sb.png&quot; alt=&quot;Panasonic Ex3 IFE site builder&quot; /&gt;&lt;/p&gt;
   &lt;figcaption&gt;Building the foundation that manages the entertainment&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;Followed by a tool to use that is build with speed and performance in mind. This CSS lead design took inspiration from flat design, which fits the criteria of cross browser performance and implementation. It was about designing a tool to build and not hinder performance with bloated UI.&lt;/p&gt;
 
 &lt;figure class=&quot;panasonic_figure--portal&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/jonathanyap-site/images/work/panasonic-ex3-ife-portal.png&quot; alt=&quot;Panasonic Ex3 IFE portal&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/work/panasonic-ex3-ife-portal.png&quot; alt=&quot;Panasonic Ex3 IFE portal&quot; /&gt;&lt;/p&gt;
   &lt;figcaption&gt;Extending the portal capability&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;The next step was to build a demo portal that served as a foundation for airlines to build upon. I helped define responsive experience on the portal by re-building the front end and the site structure of the entire site based on previous versions. It also sparked a start to creating a useful content matrix document for developers, project managers and QA to references from by taking an object oriented approach.&lt;/p&gt;
 </description>
         <pubDate>Thu, 28 Mar 2013 00:00:00 +0800</pubDate>
-        <link>http://jonathanyap.com/jonathanyap-site/work/2013/03/28/panasonic-ife/</link>
-        <guid isPermaLink="true">http://jonathanyap.com/jonathanyap-site/work/2013/03/28/panasonic-ife/</guid>
+        <link>http://jonathanyap.com/work/2013/03/28/panasonic-ife/</link>
+        <guid isPermaLink="true">http://jonathanyap.com/work/2013/03/28/panasonic-ife/</guid>
         
         
         <category>work</category>
@@ -231,14 +231,14 @@
     
       <item>
         <title>Worldpay</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/jonathanyap-site/images/work/worldpay-intro.jpg&quot; alt=&quot;Worldpay Intro&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/images/work/worldpay-intro.jpg&quot; alt=&quot;Worldpay Intro&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;checking-out-the-mobile-payment-process&quot;&gt;Checking out the mobile payment process&lt;/h2&gt;
 
 &lt;p&gt;Worldpay’s payment platform is an easy solution for businesses online to allow customers to checkout. When this project came into light, mobile payment was starting to take off. This is about designing the end of a process rather than the start and getting customers over the last stage of a purchase. Working along side a UX designer and the client, we take a look at all the entry and possible scenario.&lt;/p&gt;
 
 &lt;figure class=&quot;worldpay_figure--wireframes&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/jonathanyap-site/images/work/worldpay-wireframes.png&quot; alt=&quot;Worldpay Wireframes&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/work/worldpay-wireframes.png&quot; alt=&quot;Worldpay Wireframes&quot; /&gt;&lt;/p&gt;
   &lt;figcaption&gt;Preparing for the world of payments: low-fi wireframes&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -249,7 +249,7 @@
 &lt;h3 id=&quot;covering-the-full-range-of-devices&quot;&gt;Covering the full range of devices&lt;/h3&gt;
 
 &lt;figure class=&quot;worldpay_figure--devices&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/jonathanyap-site/images/work/worldpay-devices.jpg&quot; alt=&quot;Worldpay devices&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/work/worldpay-devices.jpg&quot; alt=&quot;Worldpay devices&quot; /&gt;&lt;/p&gt;
   &lt;figcaption&gt;A world of devices to supprt, a whole lot of considerations&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -258,8 +258,8 @@
 &lt;p&gt;In the end, we created a payment process that cover a wide range of devices but still share the same user journey.&lt;/p&gt;
 </description>
         <pubDate>Sun, 20 May 2012 00:00:00 +0800</pubDate>
-        <link>http://jonathanyap.com/jonathanyap-site/work/2012/05/20/worldpay/</link>
-        <guid isPermaLink="true">http://jonathanyap.com/jonathanyap-site/work/2012/05/20/worldpay/</guid>
+        <link>http://jonathanyap.com/work/2012/05/20/worldpay/</link>
+        <guid isPermaLink="true">http://jonathanyap.com/work/2012/05/20/worldpay/</guid>
         
         
         <category>work</category>
