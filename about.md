@@ -25,3 +25,7 @@ Come say hi [at] jonathanyap [dot] com.
   <img src="{{ site.baseurl }}/images/profile-stuff.jpg" alt="profile stuff" class="profile-suff__img">
 </figure>
 
+<nav class="nav-back-home">
+  <a href="/" class="link--back-home">Back to home 🚀</a>
+</nav>
+
