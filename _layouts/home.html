@@ -8,7 +8,8 @@
 
     {% include footer.html %}
     {% include bunny.html %}
-  <link async href="{{ "/scripts/main.min.js" | prepend: site.baseurl }}">
+  <script type="text/javascript" async href="{{ "/scripts/main.min.js" | prepend: site.baseurl }}">
+  </script>
   <script>
   if ('serviceWorker' in navigator) {
     navigator.serviceWorker.register("{{ "/sw.js" | prepend: site.baseurl }}").then(function() {
