@@ -5,8 +5,8 @@
     <description>Discovering insights, designing products, hacking prototype, building UI with code.</description>
     <link>http://jonathanyap.com/</link>
     <atom:link href="http://jonathanyap.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 23 Nov 2016 00:13:27 +0800</pubDate>
-    <lastBuildDate>Wed, 23 Nov 2016 00:13:27 +0800</lastBuildDate>
+    <pubDate>Wed, 23 Nov 2016 13:08:34 +0800</pubDate>
+    <lastBuildDate>Wed, 23 Nov 2016 13:08:34 +0800</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -120,35 +120,37 @@
 
 &lt;h2 id=&quot;bringing-you-closer-to-the-music&quot;&gt;Bringing you closer to the music&lt;/h2&gt;
 
-&lt;p&gt;This project started out as a simple refresh in design and added functionality for both iOS and Android. It grew into an opportunity to add value in the O2 music experience. This also helped us rethink the presentation method and a more engaging way to tell a story.&lt;/p&gt;
+&lt;p&gt;This project started out as a simple refresh in design and added functionality for both iOS and Android. It grew into an opportunity to add more value in the O2 music experience. This also helped us rethink the presentation method and a more engaging way to tell a story.&lt;/p&gt;
 
 &lt;figure class=&quot;o2-academy_figure--old-app&quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/work/o2-academy-old-app.png&quot; alt=&quot;O2 Academy app older version&quot; /&gt;&lt;/p&gt;
   &lt;figcaption&gt;Initial UI refresh&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;The start of this project was to propose an improvement to the previous version and give it a much needed facelift to be inline with the O2 Academy brand.&lt;/p&gt;
+&lt;p&gt;The start of this project was to propose an improvement to the previous version and give it a much needed facelift to be inline with the O2 Academy brand. Purely visual design exercise, which later speaking to O2 Academy team, we manage to identify some ideas to innovate and revisit how people feel throughout the experience.&lt;/p&gt;
+
+&lt;h4 id=&quot;departure-of-utilitarian-to-building-up-the-entertaintment&quot;&gt;Departure of utilitarian to building up the entertaintment&lt;/h4&gt;
 
 &lt;figure&gt;
   &lt;p&gt;&lt;img src=&quot;/images/work/o2-academy-new-concept.jpg&quot; alt=&quot;O2 Academy app new concept&quot; /&gt;&lt;/p&gt;
   &lt;figcaption&gt;New direction, crafted story telling&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Its about the journey from the excitement of getting the tickets to anticipation of attending the big day to the eagerness of finding the next gig. Every event is different and every artist is unique, so an adaptive approach to the app is introduced. The Band Pack. We took this opportunity to present the idea in a different light, in the experience of the app.&lt;/p&gt;
+&lt;p&gt;Its about the journey from the excitement of getting the tickets to anticipation of attending the big day to the eagerness of finding the next gig. Every event is different and every artist is unique, so an adaptive approach to the app was introduced, making it about the experience that matter to people. We took this opportunity to present the idea in a different light, in the experience of the app.&lt;/p&gt;
 
 &lt;figure&gt;
   &lt;p&gt;&lt;img src=&quot;/images/work/o2-academy-new-concept2.jpg&quot; alt=&quot;O2 Academy app new concept 2&quot; /&gt;&lt;/p&gt;
   &lt;figcaption&gt;User journey in play&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;We constructed a set that mimics the music cycle and introduced elements that enhance the experience. Through the set, we were able to communicate an engaging story and paint a much clearer picture in an exciting way.&lt;/p&gt;
+&lt;p&gt;We constructed a set that mimics the event cycle and introduced elements that enhance the experience. Through the set, we were able to communicate an engaging story and paint a much clearer picture in an exciting way.&lt;/p&gt;
 
 &lt;figure&gt;
   &lt;p&gt;&lt;img src=&quot;/images/work/o2-academy-persona.gif&quot; alt=&quot;O2 Academy persona character&quot; /&gt;&lt;/p&gt;
   &lt;figcaption&gt;Persona and his moments&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;This really helped the client understand and engage in the idea. We were able to encourage a lot of healthy discussion through this little guy, putting the perspective of the user at the centre of the attention.&lt;/p&gt;
+&lt;p&gt;This really helped the client understand and engage in the idea of focusing on the people and experience. We were able to encourage a lot of healthy discussion through this little guy, putting the perspective of the user at the centre of the attention.&lt;/p&gt;
 
 &lt;h3 id=&quot;introducing-bandpack&quot;&gt;Introducing Bandpack&lt;/h3&gt;
 
@@ -157,7 +159,7 @@
   &lt;figcaption&gt;Brandpack in action&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;With the focus now on the event itself, we introduce an element called the Band Pack that allow artists to showcase themselves. This allow the app to pull in customised content that tailors to the personality of the artist. We also provide a complete view by pull in relevant information about the performing venue.&lt;/p&gt;
+&lt;p&gt;With the focus now on the people, the event and performer manifested itself to be a crucial aspect of the experience. So, we introduce an element called the Band Pack that allow artists to headline their own event. This allow the app to pull in customised content that tailors to the personality of the artist. We also provide a complete view by pulling in relevant information about the performing venue.&lt;/p&gt;
 
 &lt;figure class=&quot;o2-academy_figure--new-app2&quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/work/o2-academy-new-app2.png&quot; alt=&quot;O2 Academy app new app 2&quot; /&gt;&lt;/p&gt;
@@ -165,6 +167,15 @@
 &lt;/figure&gt;
 
 &lt;p&gt;This makes it easy to pull in information and invite friends to join up for a night of excitement. In conclusion, the idea is about bringing you closer to the music through mobile and we have successfully created the right conversation with the client while discovering a unique way to showcase ideas and creating discussion.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;div class=&quot;embed-container&quot;&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/192736497&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+  &lt;figcaption&gt;Early Prototyping (pw: bandpack )&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I saw project through to the successful launch of the app on &lt;a href=&quot;http://www.o2.co.uk/apps/o2-academy&quot;&gt;iOS, Android&lt;/a&gt;, and &lt;a href=&quot;https://www.microsoft.com/en-sg/store/p/o2-academy/9wzdncrdqtnv_&quot;&gt;Windows&lt;/a&gt; phone with a slight departure in visual but the core idea remains in the heart of the app experience.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/work/o2-academy-launched-app.jpg&quot; alt=&quot;O2 Academy launched app&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 02 Jul 2013 00:00:00 +0800</pubDate>
         <link>http://jonathanyap.com/work/2013/07/02/o2-academy/</link>
@@ -183,14 +194,14 @@
 
 &lt;h2 id=&quot;building-the-foundation-for-entertainment-in-the-skies&quot;&gt;Building the foundation for entertainment in the skies&lt;/h2&gt;
 
-&lt;p&gt;The project with Panasonic is a very large scale, long term collaboration which involves a lot of people. I was involved in building the experience from ground up and helped shape the standards for a complex B2B CMS&lt;/p&gt;
+&lt;p&gt;The project with Panasonic is a very large scale, long term collaboration which involves a lot of teams across the world. I was involved in building the experience from ground up and helped shape the standards for a complex B2B content management system (CMS) for Panasonic’s new In-Flight Entertainment solution.&lt;/p&gt;
 
 &lt;figure class=&quot;panasonic_figure--ife&quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/work/panasonic-ex3-ife-design.png&quot; alt=&quot;Panasonic Ex3 IFE designs&quot; /&gt;&lt;/p&gt;
   &lt;figcaption&gt;Android powered entertainment&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;This started out with the work for building the UI in the Ex3 in-flight entertainment (IFE) system. With the latest version allowing touch interaction and wireless internet in the skies, we could pull in a lot of familiar services for those long hours up in the air.&lt;/p&gt;
+&lt;p&gt;This started out with the work for building the UI in the Ex3 in-flight entertainment (IFE) system. With the latest version build on androidn, allowed for touch interaction and wireless internet in the skies. We could pull in a lot of familiar services, especially for those long hours up in the air.&lt;/p&gt;
 
 &lt;figure class=&quot;panasonic_figure--wireframes&quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/work/panasonic-ex3-ife-wireframes.png&quot; alt=&quot;Panasonic Ex3 IFE wireframes&quot; /&gt;&lt;/p&gt;
@@ -204,21 +215,37 @@
   &lt;figcaption&gt;Site Builder with version tracking&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Part of the project is creating an automate process for airline without much additional coding, by building a content management system for site portals. It all starts with a simple logo, with an added bonus of allowing version control.&lt;/p&gt;
+&lt;p&gt;Part of the project was to creat an automated process for airline without additional coding, by building a content management system for site portals. I came up with a logo, with an added bonus of allowing version control for the CMS.&lt;/p&gt;
 
 &lt;figure class=&quot;panasonic_figure--sb&quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/work/panasonic-ex3-sb.png&quot; alt=&quot;Panasonic Ex3 IFE site builder&quot; /&gt;&lt;/p&gt;
   &lt;figcaption&gt;Building the foundation that manages the entertainment&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Followed by a tool to use that is build with speed and performance in mind. This CSS lead design took inspiration from flat design, which fits the criteria of cross browser performance and implementation. It was about designing a tool to build and not hinder performance with bloated UI.&lt;/p&gt;
+&lt;p&gt;Looking at the CMS itself, it was a tool that is build with intention of speed and performance in mind. The transition into a lot more code based design (in HTML/CSS) took hold, taking an inspirational play from flat design, which fits the criteria of cross browser performance and implementation. It was about designing a tool to build and not hinder performance with bloated UI. Working with engineers remotely was an interesting challenge, especially when there are more than a 2 timezones.&lt;/p&gt;
 
 &lt;figure class=&quot;panasonic_figure--portal&quot;&gt;
   &lt;p&gt;&lt;img src=&quot;/images/work/panasonic-ex3-ife-portal.png&quot; alt=&quot;Panasonic Ex3 IFE portal&quot; /&gt;&lt;/p&gt;
   &lt;figcaption&gt;Extending the portal capability&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;The next step was to build a demo portal that served as a foundation for airlines to build upon. I helped define responsive experience on the portal by re-building the front end and the site structure of the entire site based on previous versions. It also sparked a start to creating a useful content matrix document for developers, project managers and QA to references from by taking an object oriented approach.&lt;/p&gt;
+&lt;p&gt;To illustrate the capability to airlines, the next step was to build a demo portal that served as a foundation for airlines to build upon. I helped define responsive experience on the portal by re-building the front end and the site structure of the entire site based on previous versions. It also sparked a start to creating a useful content matrix document for developers, project managers and QA to references from by taking an object oriented approach in organizing content, feature, and help shape the roadmap.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;update&quot;&gt;&lt;em&gt;Update&lt;/em&gt;&lt;/h3&gt;
+
+&lt;p&gt;In 2014, It was a delightful experience to see the IFE in action while on a Singapore Airline flight. Some of the foundation that was done a few years back are now up and fully operational in a lot of these flights, as I hear feedback from people flying with the newer planes.&lt;/p&gt;
+
+&lt;p&gt;It’s truly a remarkable feeling to hear and experience how the foundation laid out earlier is empowering airline to provide a better flight experience to the general public.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/work/panasonic-ife-sia1.jpg&quot; alt=&quot;Singapore Airline IFE 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/work/panasonic-ife-sia2.jpg&quot; alt=&quot;Singapore Airline IFE 2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/work/panasonic-ife-sia3.jpg&quot; alt=&quot;Singapore Airline IFE 3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/work/panasonic-ife-sia4.jpg&quot; alt=&quot;Singapore Airline IFE 4&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 28 Mar 2013 00:00:00 +0800</pubDate>
         <link>http://jonathanyap.com/work/2013/03/28/panasonic-ife/</link>
