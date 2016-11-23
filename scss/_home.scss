@@ -44,6 +44,11 @@ Home image
   &__figure {
     margin-bottom: 0;
     background-color: $home-bg-color;
+    min-height: 12em;
+
+      @include media($tablet) {
+        min-height: 50vh;
+      }
   }
 
   &__img {
