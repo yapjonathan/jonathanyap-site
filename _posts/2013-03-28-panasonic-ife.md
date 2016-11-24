@@ -19,7 +19,7 @@ The project with Panasonic is a very large scale, long term collaboration which 
 <figcaption>Android powered entertainment</figcaption>
 </figure>
 
-This started out with the work for building the UI in the Ex3 in-flight entertainment (IFE) system. With the latest version build on androidn, allowed for touch interaction and wireless internet in the skies. We could pull in a lot of familiar services, especially for those long hours up in the air.
+This started out with the work for building the UI in the Ex3 in-flight entertainment (IFE) system. With the latest version build on android, allowed for touch interaction and wireless internet in the skies. We could pull in a lot of familiar services, especially for those long hours up in the air.
 
 <figure class='panasonic_figure--wireframes' markdown='1'>
 ![Panasonic Ex3 IFE wireframes]({{ site.baseurl }}/images/work/panasonic-ex3-ife-wireframes.png)
@@ -33,14 +33,14 @@ The project then grew into providing a second screen experience in extension to 
 <figcaption>Site Builder with version tracking</figcaption>
 </figure>
 
-Part of the project was to creat an automated process for airline without additional coding, by building a content management system for site portals. I came up with a logo, with an added bonus of allowing version control for the CMS.
+Part of the project was to create an automated process for airline without additional coding, by building a content management system for site portals. I came up with a logo, with an added bonus of allowing version control for the CMS.
 
 <figure class='panasonic_figure--sb' markdown='1'>
 ![Panasonic Ex3 IFE site builder]({{ site.baseurl }}/images/work/panasonic-ex3-sb.png)
 <figcaption>Building the foundation that manages the entertainment</figcaption>
 </figure>
 
-Looking at the CMS itself, it was a tool that is build with intention of speed and performance in mind. The transition into a lot more code based design (in HTML/CSS) took hold, taking an inspirational play from flat design, which fits the criteria of cross browser performance and implementation. It was about designing a tool to build and not hinder performance with bloated UI. Working with engineers remotely was an interesting challenge, especially when there are more than a 2 timezones.
+Looking at the CMS itself, it was a tool that is build with intention of speed and performance in mind. The transition into a lot more code based design (in HTML/CSS) took hold, taking an inspirational play from flat design, which fits the criteria of cross browser performance and implementation. It was about designing a tool to build and not hinder performance with bloated UI. Working with engineers remotely was an interesting challenge, especially when there are more than a 2 time zones.
 
 <figure class='panasonic_figure--portal' markdown='1'>
 ![Panasonic Ex3 IFE portal]({{ site.baseurl }}/images/work/panasonic-ex3-ife-portal.png)
