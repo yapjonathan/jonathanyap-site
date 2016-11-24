@@ -5,9 +5,147 @@
     <description>Discovering insights, designing products, hacking prototype, building UI with code.</description>
     <link>http://jonathanyap.com/</link>
     <atom:link href="http://jonathanyap.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 23 Nov 2016 18:01:54 +0800</pubDate>
-    <lastBuildDate>Wed, 23 Nov 2016 18:01:54 +0800</lastBuildDate>
+    <pubDate>Thu, 24 Nov 2016 10:28:15 +0800</pubDate>
+    <lastBuildDate>Thu, 24 Nov 2016 10:28:15 +0800</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Visa</title>
+        <description>&lt;div class=&quot;embed-container&quot;&gt;&lt;iframe src=&quot;
+https://player.vimeo.com/video/164785923&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;figure&gt;
+  &lt;h2 id=&quot;in-the-center-of-the-world-payment-network&quot;&gt;In the center of the world payment network&lt;/h2&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Coming into Visa, I was initially here to setup the Singapore Visa Design Studio with a partner. This was our first ever design home base outside of the US. 1st mac users in the main office is pretty much a statement of disruption we were in for, to cultivate and &lt;a href=&quot;https://sympli.io/blog/2016/10/04/less-time-specingatvisa/&quot;&gt;innovate much quicker&lt;/a&gt; like a startup within a large organisation.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/work/visa-working.jpg&quot; alt=&quot;Working in Visa&quot; /&gt;&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Most of my projects here, I am not able to publicly share them. What I am able to share is a project mobile payments that is live in multiple markets in Asia, namely &lt;a href=&quot;http://www.visa.co.in/personal/mvisa/mvisa.shtml&quot;&gt;mVisa&lt;/a&gt;. In general, mVisa is about activating the millions of device in Asia, and enabling people with easy frictionless payment experience.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/work/visa-labs.jpg&quot; alt=&quot;Visa Innovation Center in Singapore&quot; /&gt;&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Day-to-day here has been the most intersting and intense learning, with so many great partners to work with. Helping support the innovation within the company has been a key vital point, through supporting effort in the newly launched &lt;a href=&quot;http://www.visa.com.sg/aboutvisa/innovation/innovationcentre.shtml&quot;&gt;Visa Innovation Center&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;More to come in the future…&lt;/p&gt;
+</description>
+        <pubDate>Sun, 20 Nov 2016 00:00:00 +0800</pubDate>
+        <link>http://jonathanyap.com/work/2016/11/20/visa/</link>
+        <guid isPermaLink="true">http://jonathanyap.com/work/2016/11/20/visa/</guid>
+        
+        
+        <category>work</category>
+        
+      </item>
+    
+      <item>
+        <title>Roomorama</title>
+        <description>&lt;figure&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/work/roomorama-intro.gif&quot; alt=&quot;Roomorama intro&quot; /&gt;&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;vacation-rentals-in-the-travel-space&quot;&gt;Vacation rentals in the travel space&lt;/h2&gt;
+
+&lt;p&gt;High intensity, fast paced, and working within a close neat team; &lt;a href=&quot;https://roomorama.com&quot;&gt;Roomorama&lt;/a&gt; is a place where the team took pride in what they do. It’s a place I truly enjoy the international culture where almost each individual represents a nation on it’s own. Travel and culture, what better way to have discover learning and insights every single day!&lt;/p&gt;
+
+&lt;p&gt;Similar space to other short term rental, roomorama was a space for hosts (owners) and guests (renters) to fulfill each other’s demand. We were however positioned slightly different that other players since it was a shift towards the B2B and B2C space as a property aggregator in recent years.&lt;/p&gt;
+
+&lt;p&gt;As with any role, the first was to inherit and get onboarded to task at hand. However without a designer or proper documentation in place, it was my job to work with team to fully understood what the current challenges were. So I rolled up my sleeves and dig into the Rails backend for the first time, couple with multiple sessions of walking through the experience with the product manager.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/work/roomorama-whiteboard.jpg&quot; alt=&quot;Roomorama white boarding&quot; /&gt;
+&lt;img src=&quot;/images/work/roomorama-plan.jpg&quot; alt=&quot;Roomorama planning&quot; /&gt;&lt;/p&gt;
+  &lt;figcaption&gt;Structure, evaluate, and plan&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I took this opportunity to put in place some level of documentation of all the userflows we had (aside from the usual code based wiki) as I capture the full scope of functionality we had.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/work/roomorama-flows.gif&quot; alt=&quot;Roomorama site flows&quot; /&gt;&lt;/p&gt;
+  &lt;figcaption&gt;Capturing multiple userflows&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;As the documentation was conducted, I worked with our data scientist to evaluate some of our analytics on coversations, drop offs, and anywhere we could identify as potential area. While at the same time ran some research to marry both the quantitative and qualitative data.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/work/roomorama-personas.png&quot; alt=&quot;Roomorama site flows&quot; /&gt;&lt;/p&gt;
+  &lt;figcaption&gt;Data became personas, for better relationship&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;As the challenges, became clear on what to focus on, the roadmap was better defined to solve for some of the key areas for both host and guests. Guest asked for clarity and transparency in content, hosts for easier inventory managment. Both very different problem to tackle.&lt;/p&gt;
+
+&lt;h2 id=&quot;first-up-the-hosts&quot;&gt;First up, the hosts&lt;/h2&gt;
+
+&lt;figure&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/work/roomorama-sorting.jpg&quot; alt=&quot;Roomorama sorting&quot; /&gt;&lt;/p&gt;
+  &lt;figcaption&gt;Sorting content hierachy&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Sorting through all the data points revealed a structure has to be reworked to better surface important element to the both hosts and guests.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/work/roomorama-host.png&quot; alt=&quot;Roomorama host page before&quot; /&gt;&lt;/p&gt;
+  &lt;figcaption&gt;Host dashboard before&lt;/figcaption&gt;
+
+  &lt;p&gt;&lt;img src=&quot;/images/work/roomorama-host2.png&quot; alt=&quot;Roomorama host page after&quot; /&gt;&lt;/p&gt;
+  &lt;figcaption&gt;Host dashboard after&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;To ensure we deal with the source of the confusion, I focus on improving the flow of the host management tool. Incremental steps help solve for confusion and error, but also help ease the flow by giving plenty of breathing space for the host to focus on each task. Inital test show that hosts now spend an average of 8 mins vs 17 mins before to complete the basic requirement to host.&lt;/p&gt;
+
+&lt;h2 id=&quot;make-it-easy-for-guests&quot;&gt;Make it easy for guests&lt;/h2&gt;
+
+&lt;figure&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/work/roomorama-guests.jpg&quot; alt=&quot;Roomorama property page before&quot; /&gt;&lt;/p&gt;
+  &lt;figcaption&gt;Property page before&lt;/figcaption&gt;
+
+  &lt;div class=&quot;embed-container&quot;&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/192870553&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+  &lt;figcaption&gt;Property page after. pw: rooms&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Realising that people where spending too much time browsing and hoping between with bounce at about 60-80%, it was down to 2 factors. People was either shopping around for prices, or they were not finding what they needed.&lt;/p&gt;
+
+&lt;p&gt;Changing the content hierachy and surfacing easy to find information has helped reduce the bounce down to 40% and slighltly bump conversation here. It was important to provide clarity on what a guest would be intereted in, but the outcome was actually a realisation of the combination of those 2 factors, if I were to sum it up on a high level.&lt;/p&gt;
+
+&lt;h2 id=&quot;power-of-design-framework&quot;&gt;Power of design framework&lt;/h2&gt;
+
+&lt;p&gt;One of the thing that really allowed us to move quickly was down to the fact that I spent alot of time to build a scalable and modular design framework. We had to refactor a lot of our code base using the &lt;code class=&quot;highlighter-rouge&quot;&gt;Block--Element__Modifier&lt;/code&gt; (slightly modified) model.&lt;/p&gt;
+
+&lt;p&gt;The outcome was &lt;a href=&quot;https://staging.roomorama.com/design&quot;&gt;Aurora Design&lt;/a&gt;, as we slowly move away from larger more oppinionated framework like bootstrap at the time.&lt;/p&gt;
+
+&lt;p&gt;Writing front end work was tedious and tough with a lot of the dependicies from the start, but as we work through and uncouple them one-by-one, we were able to work through stories after stories in a faster pace.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;div class=&quot;embed-container&quot;&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/192872796&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+  &lt;figcaption&gt;SVG animation experiements with velocity.js pw: rooms&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;It helped us free up a lot more room to experiment and exploration, which was a huge payoff for the hours spent at the start.&lt;/p&gt;
+
+&lt;p&gt;Learning, planning, and executing. This was a great process to went through and one of the transformative journey in my career. I was fortunate to experience it, thanks to the awesome Roomorama team.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/work/roomorama-team.jpg&quot; alt=&quot;Roomorama team&quot; /&gt;&lt;/p&gt;
+  &lt;figcaption&gt;Diverse working group and a fun bunch to work with&lt;/figcaption&gt;
+
+  &lt;p&gt;&lt;img src=&quot;/images/work/roomorama-travel.jpg&quot; alt=&quot;Roomorama team travelling&quot; /&gt;&lt;/p&gt;
+  &lt;figcaption&gt;Development team travels to Cambodia&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+</description>
+        <pubDate>Sun, 01 Nov 2015 00:00:00 +0800</pubDate>
+        <link>http://jonathanyap.com/work/2015/11/01/roomorama/</link>
+        <guid isPermaLink="true">http://jonathanyap.com/work/2015/11/01/roomorama/</guid>
+        
+        
+        <category>work</category>
+        
+      </item>
     
       <item>
         <title>Emotivu</title>
