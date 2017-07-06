@@ -5,8 +5,8 @@
     <description>Discovering insights, designing products, hacking prototype, building UI with code.</description>
     <link>http://jonathanyap.com/</link>
     <atom:link href="http://jonathanyap.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 24 Nov 2016 22:21:01 +0800</pubDate>
-    <lastBuildDate>Thu, 24 Nov 2016 22:21:01 +0800</lastBuildDate>
+    <pubDate>Thu, 06 Jul 2017 17:50:29 +0800</pubDate>
+    <lastBuildDate>Thu, 06 Jul 2017 17:50:29 +0800</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -24,13 +24,23 @@ https://player.vimeo.com/video/164785923&quot; frameborder=&quot;0&quot; webkita
   &lt;p&gt;&lt;img src=&quot;/images/work/visa-working.jpg&quot; alt=&quot;Working in Visa&quot; /&gt;&lt;/p&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Most of my projects here, I am not able to publicly share them. What I am able to share is a project mobile payments that is live in multiple markets in Asia, namely &lt;a href=&quot;http://www.visa.co.in/personal/mvisa/mvisa.shtml&quot;&gt;mVisa&lt;/a&gt;. In general, mVisa is about activating the millions of device in Asia, and enabling people with easy frictionless payment experience.&lt;/p&gt;
+&lt;p&gt;Most of my projects here, I am not able to publicly share them. They do range from building &lt;a href=&quot;http://design.visa.com/design-systems.html&quot;&gt;design system&lt;/a&gt;, research and testing in-market, to running design sprints and facilitating internal design thinking session. What I am able to share is a project mobile payments that is live in multiple markets in Asia, namely &lt;a href=&quot;http://www.visa.co.in/personal/mvisa/mvisa.shtml&quot;&gt;mVisa&lt;/a&gt;. In general, mVisa is about activating the millions of device in Asia, and enabling people with easy and frictionless payment experience.&lt;/p&gt;
 
 &lt;figure&gt;
   &lt;p&gt;&lt;img src=&quot;/images/work/visa-labs.jpg&quot; alt=&quot;Visa Innovation Centre in Singapore&quot; /&gt;&lt;/p&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Day-to-day here has been the most interesting and intense learning, with so many great partners to work with. Helping support the innovation within the company has been a key vital point, through supporting effort in the newly launched &lt;a href=&quot;http://www.visa.com.sg/aboutvisa/innovation/innovationcentre.shtml&quot;&gt;Visa Innovation Centre&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Day-to-day here has been the most interesting and intense learning, with so many great partners to work with. Helping support the innovation within the company has been a key vital point, through supporting effort in the newly launched Visa Innovation Centre and becoming the center of culture change.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/work/visa-team.jpg&quot; alt=&quot;Visa Design Studio team outside in Foster City&quot; /&gt;&lt;/p&gt;
+  &lt;figcaption&gt;Visa Design Studio team just outside the HQ in Foster City&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/work/visa-design-sprint.gif&quot; alt=&quot;Design sprint means high intensity work&quot; /&gt;&lt;/p&gt;
+  &lt;figcaption&gt;Even though there's cake, there is just no time to enjoy it in a design sprint!&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;More to come in the future…&lt;/p&gt;
 </description>
@@ -116,7 +126,7 @@ https://player.vimeo.com/video/164785923&quot; frameborder=&quot;0&quot; webkita
 
 &lt;p&gt;One of the thing that really allowed us to move quickly was down to the fact that I spent a lot of time to build a scalable and modular design framework. We had to refactor a lot of our code base using the &lt;code class=&quot;highlighter-rouge&quot;&gt;Block--Element__Modifier&lt;/code&gt; (slightly modified) model.&lt;/p&gt;
 
-&lt;p&gt;The outcome was &lt;a href=&quot;https://staging.roomorama.com/design&quot;&gt;Aurora Design&lt;/a&gt;, as we slowly move away from larger more opinionated framework like bootstrap at the time.&lt;/p&gt;
+&lt;p&gt;The outcome was Aurora Design, as we slowly move away from larger more opinionated framework like bootstrap at the time.&lt;/p&gt;
 
 &lt;p&gt;Writing front end work was tedious and tough with a lot of the dependencies from the start, but as we work through and uncouple them one-by-one, we were able to work through stories after stories in a faster pace.&lt;/p&gt;
 
