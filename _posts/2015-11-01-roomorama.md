@@ -77,7 +77,7 @@ Changing the content hierarchy and surfacing easy to find information has helped
 
 One of the thing that really allowed us to move quickly was down to the fact that I spent a lot of time to build a scalable and modular design framework. We had to refactor a lot of our code base using the ``Block--Element__Modifier`` (slightly modified) model.
 
-The outcome was [Aurora Design](https://staging.roomorama.com/design), as we slowly move away from larger more opinionated framework like bootstrap at the time.
+The outcome was Aurora Design, as we slowly move away from larger more opinionated framework like bootstrap at the time.
 
 Writing front end work was tedious and tough with a lot of the dependencies from the start, but as we work through and uncouple them one-by-one, we were able to work through stories after stories in a faster pace.
 
