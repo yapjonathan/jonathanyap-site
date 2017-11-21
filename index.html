@@ -16,10 +16,20 @@ block: home
     <figure class="{{page.block}}__figure">
       <img id="profile_img_home" class="{{page.block}}__img" src="{{ site.baseurl }}/images/profile1.jpg" alt="Jonathan Yap Profile" data-profile-url1="{{ site.baseurl }}/images/profile1.jpg" data-profile-url2="{{ site.baseurl }}/images/profile2.jpg"
       onmouseover="toggleHero()" onmouseleave="toggleHero()">
+      <img class="{{page.block}}__img hidden" src="{{ site.baseurl }}/images/profile2.jpg" alt="Jonathan Yap Profile 2">
     </figure>
     <script type="text/javascript">
       var profile_img = document.getElementById("profile_img_home");
       var swag = false;
+
+      var images = [];
+      function preload() {
+          for (var i = 0; i < arguments.length; i++) {
+              images[i] = new Image();
+              images[i].src = preload.arguments[i];
+          }
+      }
+
       function toggleHero() {
           if (swag) {
               profile_img.src = profile_img.dataset.profileUrl1;
@@ -29,6 +39,11 @@ block: home
               swag = true;
           }
       }
+
+      preload(
+          profile_img.dataset.profileUrl1,
+          profile_img.dataset.profileUrl2
+      )
     </script>
 
 </header>
