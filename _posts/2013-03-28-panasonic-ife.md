@@ -1,6 +1,6 @@
 ---
 title: Panasonic In-Flight Entertainment System
-date: 2013-03-28 00:00:00 Z
+date: 2013-03-28 08:00:00 +08:00
 categories:
 - work
 layout: post
