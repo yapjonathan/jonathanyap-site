@@ -1,8 +1,8 @@
 ---
+title: About
+permalink: "/about/"
 layout: page
 block: about
-title: About
-permalink: /about/
 ---
 
 I always find it to be a tough challenge to describe oneself, so let me do a little self exploration to paint a little picture. It'll probably go something like this:

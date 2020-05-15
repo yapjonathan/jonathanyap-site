@@ -1,10 +1,12 @@
 ---
+title: Tronsquare
+date: 2013-11-21 00:00:00 Z
+categories:
+- work
 layout: post
-title:  "Tronsquare"
-date:   2013-11-21
-categories: work
 class: tronsquare
 ---
+
 <figure class='tronsquare_figure--intro' markdown='1'>
 ![Transquare Map]({{ site.baseurl }}/images/work/tronsquare-map.jpg)
 <span class='tronsquare_figure--logo' markdown='1'>

@@ -1,8 +1,9 @@
 ---
+title: Roomorama
+date: 2015-11-01 00:00:00 Z
+categories:
+- work
 layout: post
-title:  "Roomorama"
-date:   2015-11-01
-categories: work
 class: roomorama
 ---
 

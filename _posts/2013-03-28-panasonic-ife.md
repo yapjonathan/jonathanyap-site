@@ -1,8 +1,9 @@
 ---
+title: Panasonic In-Flight Entertainment System
+date: 2013-03-28 00:00:00 Z
+categories:
+- work
 layout: post
-title:  "Panasonic In-Flight Entertainment System"
-date:   2013-03-28
-categories: work
 class: panasonic
 ---
 
